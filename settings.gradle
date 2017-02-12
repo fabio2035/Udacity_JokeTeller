@@ -1,1 +1,1 @@
-include ':app', ':lib_javajokes', ':lib_andrdispljokes'
+include ':app', ':lib_javajokes', ':lib_andrdispljokes', ':CGE_Server'
