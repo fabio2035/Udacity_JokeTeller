@@ -4,7 +4,7 @@
     <string name="button_text">Tell Joke</string>
     <string name="action_settings">Settings</string>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="pref_IP">192.168.43.231</string>
+    <string name="pref_IP">192.168.43.243</string>
     <string name="pref_IP_label">Server IP</string>
     <string name="pref_IP_key">server_ip</string>
     <string name="pref_IP_default">192.168.43.231</string>
